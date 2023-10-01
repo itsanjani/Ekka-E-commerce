@@ -1,0 +1,48 @@
+
+
+
+/************************fonts****************************/
+.font1{font-family: 'Monoton', cursive;}
+
+.text-black{color: #000;}
+.text-black:hover{color: #000;}
+.text-gray{color: #424141;}
+.bg-gray{background: #555555;}
+.text-gray:hover{color: #6b6b6b;}
+.btn-gary{
+    background-color: #555555;
+    color: #fff;
+}
+.btn-gary:hover{
+    background-color: #727070;
+    color: #d4cfcf;
+}
+
+.carousel-indicators{
+    margin-bottom: -1rem !important;
+}
+
+#myTab li a:hover{
+    background-color: rgb(36, 107, 240) !important;
+    color: #fff !important;
+}
+
+.body{
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-peach{
+    background: #ff4f5a;
+}
+
+/******************************************/
+.about img{
+    border-radius: 3rem;
+}
+
+.Specification{
+    padding: 40% 25%;
+}
+
